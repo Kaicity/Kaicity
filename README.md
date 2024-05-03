@@ -18,7 +18,11 @@ Fullstack developer
 ![Dart](icons/dart.png)
 ![C#](icons/csharp.png)
 
-## Kinh nghiệm làm việc
+## Frameworks
+ - Angular
+ - Springboot
+ - VueJS
+ - 
 ### Công ty ABC (MM/YYYY - Hiện tại)
 - Mô tả công việc và thành tựu đạt được.
 
