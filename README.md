@@ -29,7 +29,7 @@ Fullstack developer
 ![Dart](assets/dart.png)
 ![C#](assets/csharp.png)
 
-## Frameworks I have used
+## Frameworks
  - Angular
  - Springboot JPA
  - VueJS
