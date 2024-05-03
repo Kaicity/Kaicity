@@ -8,9 +8,15 @@ Hello, my name is Nguyen Minh Thong. I grew up living, studying and working in H
 Fullstack developer
 
 ## Knownledge Programing Language
-- Kỹ năng 1
-- Kỹ năng 2
-- ...
+![C++](icons/cpp.png)
+![Java](icons/java.png)
+![HTML](icons/html.png)
+![CSS](icons/css.png)
+![JavaScript](icons/js.png)
+![Python](icons/python.png)
+![TypeScript](icons/ts.png)
+![Dart](icons/dart.png)
+![C#](icons/csharp.png)
 
 ## Kinh nghiệm làm việc
 ### Công ty ABC (MM/YYYY - Hiện tại)
