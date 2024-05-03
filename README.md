@@ -4,10 +4,10 @@ Hello, my name is Nguyen Minh Thong. I grew up living, studying and working in H
 - Email: nguyenminhthongitmix@gmail.com
 - Phone number: 0703338458
  
-## Tóm tắt
-Một mô tả ngắn về bản thân bạn và mục tiêu nghề nghiệp của bạn.
+## Summary
+Fullstack developer
 
-## Kỹ năng
+## Knownledge Programing Language
 - Kỹ năng 1
 - Kỹ năng 2
 - ...
@@ -15,11 +15,6 @@ Một mô tả ngắn về bản thân bạn và mục tiêu nghề nghiệp c�
 ## Kinh nghiệm làm việc
 ### Công ty ABC (MM/YYYY - Hiện tại)
 - Mô tả công việc và thành tựu đạt được.
-
-## Học vấn
-### Đại học XYZ (YYYY - YYYY)
-- Ngành học
-- Thông tin khác
 
 ## Dự án
 ### Tên dự án 1
