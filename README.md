@@ -1,8 +1,8 @@
-# 🌟 Họ và Tên
+# 🌟 ABOUT ME CONTACT
+Hello, my name is Nguyen Minh Thong. I grew up living, studying and working in Ho Chi Minh City. Up to now, I am a 4th year student at Saigon University, department of information technology, majoring in software engineering. During my time and study, I worked on software projects on e-commerce Web services, image recognition and processing, and multi-platform applications connected to the Microservice API Gateway model.
 
-## Thông tin Liên hệ
-- Email: your.email@example.com
-- Số điện thoại: (123) 456-7890
+- Email: nguyenminhthongitmix@gmail.com
+- Phone number: 0703338458
  
 ## Tóm tắt
 Một mô tả ngắn về bản thân bạn và mục tiêu nghề nghiệp của bạn.
