@@ -8,23 +8,27 @@ Hello, my name is Nguyen Minh Thong. I grew up living, studying and working in H
 Fullstack developer
 
 ## Knownledge Programing Language
-![C++](icons/cpp.png)
-![Java](icons/java.png)
-![HTML](icons/html.png)
-![CSS](icons/css.png)
-![JavaScript](icons/js.png)
-![Python](icons/python.png)
-![TypeScript](icons/ts.png)
-![Dart](icons/dart.png)
-![C#](icons/csharp.png)
+![C++](assets/c.png)
+![Java](assets/java.png)
+![HTML](assets/html.png)
+![CSS](assets/css.png)
+![JavaScript](assets/js.png)
+![Python](assets/python.png)
+![TypeScript](assets/ts.png)
+![Dart](assets/dart.png)
+![C#](assets/csharp.png)
 
-## Frameworks
+## Frameworks I have used
  - Angular
- - Springboot
+ - Springboot JPA
  - VueJS
- - 
-### Công ty ABC (MM/YYYY - Hiện tại)
-- Mô tả công việc và thành tựu đạt được.
+ - Taiwind and Boostrap CSS
+ - Nodejs
+ - PHP Laravel
+   
+### My Project
+- Building website Ecommerce Cloth Store Microservices Model
+![microservices]("assets/microservices.jpg")
 
 ## Dự án
 ### Tên dự án 1
