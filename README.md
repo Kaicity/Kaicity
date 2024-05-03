@@ -26,17 +26,16 @@ Fullstack developer
  - Nodejs
  - PHP Laravel
    
-### My Project
+### Project building Microservices Model
 - Building website Ecommerce Cloth Store Microservices Model
-![microservices]("assets/microservices.jpg")
+ </br>
+ ![C#](https://www.c-sharpcorner.com/article/implementation-and-containerization-of-microservices-using-net-core-6-and-docke/Images/image-20220812140146-2.png)
 
-## Dự án
-### Tên dự án 1
-- Mô tả dự án và vai trò của bạn
-### Tên dự án 2
-- Mô tả dự án và vai trò của bạn
+## Projects
+### Clothes Store 
+- Design user interface for Sell client, Admin of web page
+- Build server API functions for the website
+- Deployment operation Docker, AWS and Google Cloud Services
+### Coffee store
+- Project is spending
 
-## Sở thích
-- Sở thích 1
-- Sở thích 2
-- ...
