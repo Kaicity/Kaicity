@@ -43,5 +43,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaicity&show_icons=true&locale=en&layout=compact" alt="kaicity" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaicity&show_icons=true&locale=en" alt="kaicity" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicity&" alt="kaicity" /></p>
