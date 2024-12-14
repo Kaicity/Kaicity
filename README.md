@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Minh Thông</h1>
-<h3 align="center">A Passionate Frond-end Developer from Vietnam</h3>
+<h3 align="center">A Passionate Front-end Developer from Vietnam</h3>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRoM3QwdHM0amVoMmFsYWw1aW9rbWswcTA3ZDgya2NoMTY1d3lhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
