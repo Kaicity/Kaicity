@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Minh Thông</h1>
-<h3 align="center">A Passionate Fullstack Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A Passionate Frond-end Developer from Vietnam</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
-  <p>💻 Coding is my passion!</p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRoM3QwdHM0amVoMmFsYWw1aW9rbWswcTA3ZDgya2NoMTY1d3lhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="400" />
+ <p>💻 Coding is my passion! I love it <img src="https://media.giphy.com/media/Kbjla2Aw5799DaW2SM/giphy.gif?cid=ecf05e47f8cxzwpnysrfqumozvhxcab6uy1e3r7173rzwizr&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt="coding gif" /></p>
 </div>
 
 <p align="center">
